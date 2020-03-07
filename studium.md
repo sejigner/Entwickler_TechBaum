@@ -97,4 +97,6 @@
 ### 3. 개인 프로젝트
   - Attractions' Map of Korea (Plan your Travel with HD Photos)
     - 타겟 : 한국에 관심 있는 외국인 + 내국인
-    - 기능 : 관광지를 맵상에서 사진으로 먼저 확인하여 방문 계획 세우는 데 수월하게 함.
+    - 기능 : 지역 별 명소를 맵상에서 사진으로 먼저 확인하여 방문 계획 세우는 데 수월하게 함.
+      - 지도 상에서 명소를 클릭해서 사진 확인
+      [지도예시](https://github.com/sejigner/Entwickler_TechBaum/issues/1#issue-577298779)
